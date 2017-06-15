@@ -3941,7 +3941,7 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-faded {
-  background-color: #555752; }
+  background-color: #000; }
 
 .bg-primary {
   background-color: #00b0eb !important; }
@@ -5895,7 +5895,7 @@ body > * {
   color: #000000; }
 
 .bg-faded {
-  color: #555752; }
+  color: #000000; }
 
 .bg-inverse {
   color: #ffffff; }
